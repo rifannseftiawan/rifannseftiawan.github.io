@@ -19,7 +19,7 @@ h3 {
 }
 
 img {
-    max-width: 50%;
+    max-width: 100%;
     height: auto;
     margin-top: 20px; /* Untuk memberi sedikit ruang di atas gambar */
 }
