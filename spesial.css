@@ -66,3 +66,21 @@ p {
 .next-page-button:hover {
     background-color: #333; /* Warna hitam ketika tombol dihover */
 }
+.text-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #fff; /* Warna teks di atas gambar */
+}
+
+.text-overlay h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.text-overlay p {
+    font-size: 1.2em;
+    margin: 0;
+}
